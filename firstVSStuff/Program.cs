@@ -11,8 +11,11 @@ namespace firstVSStuff
         static void Main(string[] args)
         {
             Console.Out.WriteLine("Please input your name.");
-            String input =Console.ReadLine();
-            Console.Out.WriteLine(input);
+            String name =Console.ReadLine();
+            Console.Out.WriteLine("Please input your age.");
+            int age = Int32.Parse(Console.ReadLine());
+            Console.Out.WriteLine(name);
+            Console.Out.WriteLine(age);
             Console.ReadLine();
         }
     }
