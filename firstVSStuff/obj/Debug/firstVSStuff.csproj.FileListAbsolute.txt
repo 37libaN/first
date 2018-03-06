@@ -1,0 +1,6 @@
+C:\Users\liban\Desktop\Nabil\VS WorkStuff\firstVSStuff\firstVSStuff\bin\Debug\firstVSStuff.exe.config
+C:\Users\liban\Desktop\Nabil\VS WorkStuff\firstVSStuff\firstVSStuff\bin\Debug\firstVSStuff.exe
+C:\Users\liban\Desktop\Nabil\VS WorkStuff\firstVSStuff\firstVSStuff\bin\Debug\firstVSStuff.pdb
+C:\Users\liban\Desktop\Nabil\VS WorkStuff\firstVSStuff\firstVSStuff\obj\Debug\firstVSStuff.csproj.CoreCompileInputs.cache
+C:\Users\liban\Desktop\Nabil\VS WorkStuff\firstVSStuff\firstVSStuff\obj\Debug\firstVSStuff.exe
+C:\Users\liban\Desktop\Nabil\VS WorkStuff\firstVSStuff\firstVSStuff\obj\Debug\firstVSStuff.pdb
