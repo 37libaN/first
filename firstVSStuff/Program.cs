@@ -10,6 +10,10 @@ namespace firstVSStuff
     {
         static void Main(string[] args)
         {
+            Console.Out.WriteLine("Please input your name.");
+            String input =Console.ReadLine();
+            Console.Out.WriteLine(input);
+            Console.ReadLine();
         }
     }
 }
